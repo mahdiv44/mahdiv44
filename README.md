@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @mahdiv44
-- 👀 I’m interested in to programming
-- 🌱 I’m currently learning Different programming languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Computer Science student at Hakim Sabzevari University (2022–2026) and previously studied at Ferdowsi University of Mashhad (2020–2021). Passionate about coding, problem-solving, and building cool projects. Proficient in C++ and Python. Currently living in Mashhad, Iran  404: Sleep not found :)
+📧 mahdi.vazin44@gmail.com | Telegram: @mahdi_v44
 
-<!---
-mahdiv44/mahdiv44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
